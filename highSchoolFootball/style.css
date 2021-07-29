@@ -5,3 +5,16 @@
 body {
     background-color:red;
 }
+.form{
+    text-align: center;
+    border-style:solid;
+}
+#heading{
+    text-align: center;
+}
+#heading2{
+    text-align: center;
+}
+#heading3{
+    text-align: center;
+}
