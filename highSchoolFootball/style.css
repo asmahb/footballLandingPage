@@ -1,5 +1,7 @@
 .jumbotron{
     background-image:url("https://media.lasvegassun.com/media/img/photos/2019/08/09/20190724_SUN_HSFB_014_t653.jpg?214bc4f9d9bd7c08c7d0f6599bb3328710e01e7b");
+    padding: 150px;
+    margin: 10px;
 }
 
 body {
@@ -17,4 +19,12 @@ body {
 }
 #heading3{
     text-align: center;
+}
+.jumbotron{
+    font-weight: bolder;
+}
+#jumbo{
+    text-align: center;
+    color:black;
+    font-weight: bolder;
 }
